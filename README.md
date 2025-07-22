@@ -33,7 +33,7 @@ AI 모델의 학습 효율성을 극대화하고 신뢰성 있는 결과를 도�
 <div align="center">
     <img src="https://github.com/user-attachments/assets/c36a2831-30dc-423e-866e-e6d0abe4fc79" alt="Polyp Image Example" width="221" height="109">
     <br>
-    <em>▲ 대장 용종 이미지 예시: 완전 절제 여부 판단을 위한 핵심 데이터</em>
+    <em>▲ 전처리 프로그램 </em>
 </div>
 
 ---
